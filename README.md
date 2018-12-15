@@ -6,7 +6,7 @@ Run_FirstOrderSystems.m: Enter one or more functions of t and y representing the
 
 Run_GetDiffEqn.m: Enter a partial differential equation and run to generate the corresponding difference equation.
 
-Run_Linprog.m: An interface for the [linprog](https://www.mathworks.com/help/optim/ug/linprog.html "linprog at Mathworks.com") function.
+Run_Linprog.m: An interface for the [linprog](https://www.mathworks.com/help/optim/ug/linprog.html "linprog at Mathworks.com") function, performing linear optimization.
 
 Run_NumericalInt.m: Perform Riemann summation to approximate definite integrals.
 
@@ -18,7 +18,7 @@ Run_QuadDiag.m: Enter a quadratic function in N variables and run to find the su
 
 Run_QuadMin.m: Enter a quadratic function in N variables and run to find the extremal values of the function.
 
-Run_Quadprog.m: An interface for the [quadprog](https://www.mathworks.com/help/optim/ug/quadprog.html "quadprog at Mathworks.com") function.
+Run_Quadprog.m: An interface for the [quadprog](https://www.mathworks.com/help/optim/ug/quadprog.html "quadprog at Mathworks.com") function, performing quadratic optimization.
 
 Run_SecondOrderODE.m: Input a single second order differential equation and run to plot the solution. 
 
