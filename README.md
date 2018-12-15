@@ -14,7 +14,7 @@ Run_Orthdiag.m: Enter a matrix M and run to find the matrix A such that A'MA = D
 
 Run_PlotSurfM.m: Provide a matrix of values of a 2-variable function and run to plot the corresponding surface.
 
-Run_QuadDiag.m: Enter a quadratic function in N variables and run to find the substitution x = Ay that eliminates function's cross terms.
+Run_QuadDiag.m: Enter a quadratic function in N variables and run to find the substitution x = Ay that eliminates the function's cross terms.
 
 Run_QuadMin.m: Enter a quadratic function in N variables and run to find the extremal values of the function.
 
