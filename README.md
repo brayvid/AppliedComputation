@@ -1,6 +1,6 @@
 # AppliedComputation
 
-Run_BestLine.m: Enter X and Y data as vectors and run to generate the slope and y-intercept of the line of best fit for the data.
+Run_BestLine.m: Enter X and Y data as vectors and run to generate the slope and y-intercept of the line of best fit for the data, with either the 1-norm, 2-norm or Inf-norm.
 
 Run_FirstOrderSystems.m: Enter one or more functions of t and y representing the first derivatives and run to plot the solution.
 
