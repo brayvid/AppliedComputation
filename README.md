@@ -26,4 +26,4 @@ Run_SolveDiffPDE.m: Provide a difference equation and boundary conditions and ru
 
 Run_SolveLaplace.m: Provide a domain and boundary conditions and run to solve Laplace's equation in the interior.
 
-(All other functions in the repository are called by the above scripts and not called directly)
+(All other files in the repository are used by the above scripts and not run directly)
